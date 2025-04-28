@@ -34,8 +34,8 @@ const App = () => {
 return (
 <div className="app-container">
 <ProfileCard
-name="Ashlesh V Nayak"
-bio="Nothing!!!"
+name="Robert John Downey Jr"
+bio="Is a celebrated American actor known for his charismatic performances, remarkable comeback story, and iconic portrayal of Iron Man in the Marvel Cinematic Universe."
 initialBgColor="linear-gradient(135deg, #ADD8E6, #E6E6FA)"
 />
 </div>
